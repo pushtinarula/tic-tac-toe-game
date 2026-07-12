@@ -3,6 +3,15 @@
 A simple and interactive **Tic Tac Toe game** built using Python. This project features a graphical user interface and allows a player to compete against the computer.
 
 
+## ✨ Features
+
+* 🎮 Interactive Tic Tac Toe gameplay
+* 🤖 Play against computer (AI logic)
+* 🖥️ Clean and simple GUI using Tkinter
+* 🏆 Detects win, lose, and draw states
+* ⚡ Fast and responsive
+
+
 ## 🛠️ Tech Stack
 
 * Python
