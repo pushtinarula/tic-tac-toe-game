@@ -21,3 +21,21 @@ tic-tac-toe-game/
 │── *.png            # Game images (win/draw states)
 
 │── README.md        # Project documentation
+
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+    git clone https://github.com/pushtinarula/tic-tac-toe-game.git
+
+2. Navigate to the folder:
+
+    cd tic-tac-toe-game
+
+3. Run the game:
+
+    python main.py
+
+
+   
